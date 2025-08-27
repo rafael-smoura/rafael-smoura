@@ -1,11 +1,11 @@
 # 🏄‍♂️ Rafael Moura
 
-**`Desenvolvedor FullStack`**
+**`Future Digital Craftsman (Student/Developer/Security)`**
 
 
 Me chamo Rafael Silva Moura, tenho 18 anos e sou de Pernambuco. Concluí o ensino médio na ETEMAC, com curso técnico em **Redes de Computadores**. Atualmente, estou cursando **Engenharia da Computação** na UFPE.  
 
-Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube, [Decodificando Maquinas](https://www.youtube.com/@DecodificandoMaquinas), onde ensino sobre tecnologia, e também pelo Instagram, com o perfil [Rafael Moura](https://www.instagram.com/rafael.smoura.dev/), onde mostro minha rotina e compartilho posts sobre tecnologia.  
+Sou apaixonado por tecnologia, principalmente quando se trata de Cybersecurity, e compartilho meu conhecimento através do meu canal no YouTube, [Decodificando Maquinas](https://www.youtube.com/@DecodificandoMaquinas), onde ensino sobre tecnologia, e também pelo Instagram, com o perfil [Rafael Moura](https://www.instagram.com/rafael.smoura.dev/), onde mostro minha rotina e compartilho posts sobre tecnologia.  
 
 Atualmente, estou estudando novas linguagens e desenvolvendo **projetos próprios**, que provavelmente irei colocar aqui no GitHub em breve.
 
@@ -127,9 +127,10 @@ Atualmente, estou estudando novas linguagens e desenvolvendo **projetos próprio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" 
 />
+</p>
 
-<br/>
-<br/>
+<br clear="both">
+<br clear="both">
 
 ### 📊 Estatísticas
 
@@ -146,8 +147,19 @@ Atualmente, estou estudando novas linguagens e desenvolvendo **projetos próprio
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+<br clear="both">
+<br clear="both">
+
+
+### 📺 Últimos Vídeos Lançados
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Introdução à Cybersegurança](https://ytcards.demolab.com/?id=dQw4w9WgXcQ&title=Introdução+à+Cybersegurança&lang=pt&timestamp=1620000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=210 "Introdução à Cybersegurança")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<!-- END YOUTUBE-CARDS -->
+
+
