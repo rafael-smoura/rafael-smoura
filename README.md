@@ -1,14 +1,20 @@
 # 🏄‍♂️ Rafael Moura
 
-**`Future Digital Craftsman (Student/Developer/Security)`**
+>**`Futuro Artesão Digital (Estudante/Desenvolvedor/Segurança)`**
+---
 
+**⚙️ Sobre Mim:**
 
-Me chamo Rafael Silva Moura, tenho 18 anos e sou de Pernambuco. Concluí o ensino médio na ETEMAC, com curso técnico em **Redes de Computadores**. Atualmente, estou cursando **Engenharia da Computação** na UFPE.  
+Sou **Rafael Silva Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
-Sou apaixonado por tecnologia, principalmente quando se trata de Cybersecurity, e compartilho meu conhecimento através do meu canal no YouTube, [Decodificando Maquinas](https://www.youtube.com/@DecodificandoMaquinas), onde ensino sobre tecnologia, e também pelo Instagram, com o perfil [Rafael Moura](https://www.instagram.com/rafael.smoura.dev/), onde mostro minha rotina e compartilho posts sobre tecnologia.  
+Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiências no YouTube, [**Decodificando Maquinas**](https://www.youtube.com/@DecodificandoMaquinas), e no Instagram, [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura.dev/).
 
-Atualmente, estou estudando novas linguagens e desenvolvendo **projetos próprios**, que provavelmente irei colocar aqui no GitHub em breve.
+Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com **Python, C, C++ e Arduino**, e desenvolvendo **projetos próprios** para colocar minhas ideias em prática. 🚀
 
+Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
+💡 **Confira meus repositórios e redes sociais, e sinta-se à vontade para colaborar ou deixar sugestões!**
+
+---
 <p align="left">
     <a href="https://www.youtube.com/@DecodificandoMaquinas?sub_confirmation=1">
         <img 
@@ -53,6 +59,7 @@ Atualmente, estou estudando novas linguagens e desenvolvendo **projetos próprio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -61,7 +68,14 @@ Atualmente, estou estudando novas linguagens e desenvolvendo **projetos próprio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 <img 
     align="left" 
     alt="C/C++" 
