@@ -4,12 +4,6 @@
 
 Sou **Rafael Silva Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
-Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiências no YouTube, [**Decodificando Maquinas**](https://www.youtube.com/@DecodificandoMaquinas), e no Instagram, [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura.dev/).
-
-Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com **Python, C, C++ e Arduino**, e desenvolvendo **projetos próprios** para colocar minhas ideias em prática. 
-
-Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
-💡 **Confira meus repositórios e redes sociais, e sinta-se à vontade para colaborar ou deixar sugestões!**
 
 ---
 <p align="left">
