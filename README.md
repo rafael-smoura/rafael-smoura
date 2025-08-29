@@ -1,7 +1,9 @@
 # 🏄‍♂️ Rafael Moura
 
-**`Futuro Artesão Digital (Estudante/Desenvolvedor/Segurança)`**
+
 ![center](https://github.com/user-attachments/assets/c2bcb26a-d4f0-4d14-a2ee-e54b073578b5)
+
+**`Futuro Artesão Digital (Estudante/Desenvolvedor/Segurança)`**
 
 Sou **Rafael Silva Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
