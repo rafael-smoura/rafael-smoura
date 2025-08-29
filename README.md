@@ -1,6 +1,7 @@
 # 🏄‍♂️ Rafael Moura
 
 **`Futuro Artesão Digital (Estudante/Desenvolvedor/Segurança)`**
+![center](https://github.com/user-attachments/assets/c2bcb26a-d4f0-4d14-a2ee-e54b073578b5)
 
 Sou **Rafael Silva Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
@@ -10,6 +11,14 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com
 
 Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
 💡 **Confira meus repositórios e redes sociais, e sinta-se à vontade para colaborar ou deixar sugestões!**
+<p align="left">
+   <a href="https://www.linkedin.com/in/rafaelsmouraoficial">
+      <img alt="LinkedIn" title="LinkedIn" 
+           src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://instagram.com/rafael.smoura.dev">
+      <img alt="Instagram" title="Instagram" 
+           src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 <p align="left">
     <a href="https://www.youtube.com/@DecodificandoMaquinas?sub_confirmation=1">
         <img 
@@ -135,6 +144,14 @@ Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
 </p>
 
