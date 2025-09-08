@@ -150,6 +150,43 @@ Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael
 <br clear="both">
 <br clear="both">
 
+### 🛜 Badges Cisco
+
+<p align="left">
+  <a href="https://www.credly.com/badges/d6583357-2582-4a8e-99cb-5ee71b805df3/public_url">
+    <img 
+      alt="CCNA: Introduction to Networks" 
+      title="CCNA: Introduction to Networks"
+      src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" 
+      height="120" 
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/2ea40c9c-b8b2-443d-90be-7c9fedd8e91f/public_url">
+    <img 
+      alt="Cybersecurity Essentials" 
+      title="Cybersecurity Essentials"
+      src="https://images.credly.com/size/220x220/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" 
+      height="120" 
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/74dc5da7-bff9-450d-8543-2258c019db54/public_url">
+    <img 
+      alt="IT Essentials" 
+      title="IT Essentials"
+      src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" 
+      height="120" 
+    />
+  </a>
+   <p align="left">
+  
+
+
+<br/>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
