@@ -1,5 +1,5 @@
 # 🏄‍♂️ Rafael Moura
-**`🎓 Computer Engineering Student (Estudante/Desenvolvedor/Segurança)`**
+**` Computer Engineering Student (Estudante/Desenvolvedor/Segurança)`**
 
 Sou **Rafael Silva Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
