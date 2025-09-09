@@ -18,8 +18,20 @@ Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiên
 
 Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com **Python, C, C++ e Arduino**, e desenvolvendo **projetos próprios** para colocar minhas ideias em prática. 
   Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
-  <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30" style="vertical-align: middle; margin-right: 10px;">
- 
+ <table>
+  <tr>
+    <td>
+      Sou <b>Rafael Moura</b>, desenvolvedor full-stack indie e criador de conteúdo...
+      <br>Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiências...
+      <br>Atualmente curso <b>Engenharia da Computação</b> na <b>UFPE/CIN</b>, trabalhando com <b>Python, C, C++ e Arduino</b>...
+      <br>Minhas redes sociais estão reunidas em: <a href="https://linktr.ee/rafael.smoura.dev"><b>Linktree</b></a>
+    </td>
+    <td valign="bottom">
+      <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30">
+    </td>
+  </tr>
+</table>
+
 </p>
 
 
