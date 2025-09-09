@@ -184,19 +184,16 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafael-smoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rafael-smoura&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smoura&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" 
   />
-  
-
 </p>
-
 
 <br clear="both">
 <br clear="both">
