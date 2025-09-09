@@ -8,16 +8,23 @@
 **`Future Digital Engineer (Student/Developer/Cybersecurity)`**
 
 
-Sou **Rafael Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
+
+<p>
+  Sou **Rafael Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
 
 
 Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiências no YouTube, [**Decodificando Maquinas**](https://www.youtube.com/@DecodificandoMaquinas), e no Instagram, [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura.dev/).
 
 Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com **Python, C, C++ e Arduino**, e desenvolvendo **projetos próprios** para colocar minhas ideias em prática. 
+  Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
+  <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30" style="vertical-align: middle; margin-right: 10px;">
+ 
+</p>
 
-Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
+
 💡 **Confira meus repositórios e redes sociais, e sinta-se à vontade para colaborar ou deixar sugestões!**
+
 
 
   <a href="https://www.linkedin.com/in/rafaelsmouraoficial">
