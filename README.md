@@ -10,7 +10,7 @@
 
 
 <p>
-  Sou **Rafael Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
+  Sou <b>Rafael Moura</b>, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
 
 
 
@@ -18,16 +18,21 @@ Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiên
 
 Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com **Python, C, C++ e Arduino**, e desenvolvendo **projetos próprios** para colocar minhas ideias em prática. 
   Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
+  <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30" style="vertical-align: middle; margin-right: 10px;">
+ 
+</p>
+
+
  <table>
   <tr>
     <td>
-      Sou <b>Rafael Moura</b>, desenvolvedor full-stack indie e criador de conteúdo...
-      <br>Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiências...
-      <br>Atualmente curso <b>Engenharia da Computação</b> na <b>UFPE/CIN</b>, trabalhando com <b>Python, C, C++ e Arduino</b>...
-      <br>Minhas redes sociais estão reunidas em: <a href="https://linktr.ee/rafael.smoura.dev"><b>Linktree</b></a>
+      Embora esteja apenas começando minha jornada como desenvolvedor, já estou
+      <br>transformando ideias em projetos futuros. Meu foco é aprender, experimentar e criar
+      <br>soluções digitais que surpreendam e inspirem.
+     </a>
     </td>
-    <td valign="bottom">
-      <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30">
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/5697814b-958c-4e14-b67c-6da323e7c1e3" alt="Click 8 Bit Sticker" width="50">
     </td>
   </tr>
 </table>
