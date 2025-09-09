@@ -1,13 +1,16 @@
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b21b1816-b69a-4e22-96e7-4a35028335da" alt="Minha Imagem" width="300">
+  <img src="https://github.com/user-attachments/assets/c9ae7e44-116b-415e-aabc-3d81ad88d992" alt="Click Lets Go Sticker by Xinanimodelacra" width="150">
 </p>
 
 
 **`Future Digital Engineer (Student/Developer/Cybersecurity)`**
 
+
 Sou **Rafael Silva Moura**, desenvolvedor full-stack indie e criador de conteúdo, construindo minha própria versão do mundo digital, passo a passo. Me envolvo desde o planejamento e design até a implementação de projetos, sempre aprendendo e superando desafios.
+
+
 
 Também produzo conteúdo em vídeo, compartilhando ideias, insights e experiências no YouTube, [**Decodificando Maquinas**](https://www.youtube.com/@DecodificandoMaquinas), e no Instagram, [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura.dev/).
 
@@ -15,6 +18,7 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com
 
 Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael.smoura.dev)
 💡 **Confira meus repositórios e redes sociais, e sinta-se à vontade para colaborar ou deixar sugestões!**
+
 
   <a href="https://www.linkedin.com/in/rafaelsmouraoficial">
     <img alt="LinkedIn" title="LinkedIn"
@@ -40,6 +44,7 @@ Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael
 
 
 ---
+
 
 ### 🧰 Linguagens e Ferramentas
 
@@ -164,8 +169,10 @@ Minhas redes sociais estão reunidas em: [**Linktree**](https://linktr.ee/rafael
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 
 </p>
+
 
 <br clear="both">
 <br clear="both">
