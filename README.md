@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b21b1816-b69a-4e22-96e7-4a35028335da" alt="Minha Imagem">
+  <img src="https://github.com/user-attachments/assets/b21b1816-b69a-4e22-96e7-4a35028335da" alt="Minha Imagem" width="300">
 </p>
+
 
 **`Future Digital Engineer (Student/Developer/Cybersecurity)`**
 
