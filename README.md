@@ -31,7 +31,7 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN**, trabalhando com
       <br>soluções digitais que surpreendam e inspirem.
      </a>
     </td>
-    <td align="center" valign="bottom">
+    <td align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/5697814b-958c-4e14-b67c-6da323e7c1e3" alt="Click 8 Bit Sticker" width="50">
     </td>
   </tr>
