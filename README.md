@@ -191,7 +191,7 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN** trabalhando com 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smoura&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smoura&layout=compact&custom_title=Tecnologias&langs_count=2&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" 
   />
 </p>
 
