@@ -98,7 +98,7 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN** trabalhando com 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="C/C++" 
     title="C/C++"
@@ -106,6 +106,7 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN** trabalhando com 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+-->
 
 <img 
     align="left" 
@@ -131,14 +132,14 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN** trabalhando com 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<!--<img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+/> 
 <img 
     align="left" 
     alt="React"
@@ -162,7 +163,7 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN** trabalhando com 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" 
-/>
+/>-->
 <img 
     align="left" 
     alt="Arduino" 
