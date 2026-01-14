@@ -123,7 +123,7 @@
     <img 
       alt="IT Essentials" 
       title="IT Essentials"
-      src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" 
+      src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" 
       height="120" 
     />
   </a>
