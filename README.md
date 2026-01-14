@@ -84,6 +84,7 @@
 <br clear="both">
 <br clear="both">
 
+<!--
 ### 📊 Statistics
 
 <p>
@@ -91,3 +92,5 @@
        src="https://github-readme-stats.vercel.app/api?username=rafael-smoura&show_icons=true&hide_border=true&include_all_commits=true&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" />
 
   <img align="left" alt="To
+
+  -->
