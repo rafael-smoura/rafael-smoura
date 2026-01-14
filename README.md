@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/c9ae7e44-116b-415e-aabc-3d81ad88d992" alt="Click Lets Go Sticker by Xinanimodelacra" width="150">
 </p>
 
-**`Future Digital Engineer (Student / Developer / Cybersecurity)`**
+**`Future Digital Engineer (Computer Engineering Student | Python Developer | Cybersecurity)`**
 
 <p>
   I am <b>Rafael Moura</b>, a <b>Python-focused developer</b> and content creator, building my own version of the digital world step by step. I work across the development process — from planning and design to implementation — with a strong focus on learning, experimentation, and continuous improvement.
@@ -13,12 +13,14 @@
   and on Instagram,
   [**Rafael Moura**](https://www.instagram.com/rafael.smoura_/).
 
-  I am currently studying **Computer Engineering** at **UFPE / CIN**, mainly working with **Python** and developing **personal projects** focused on automation, web development, and data analysis.
+  I am currently studying **Computer Engineering** at **UFPE / CIN**, mainly working with **Python** and developing **personal projects** focused on automation, web development, and data analysis.  
+  I hold a **Technical Degree in Computer Networks**, which gives me a solid foundation in networking, systems, and IT infrastructure.
 
   All my social links are available at:
   [**Linktree**](https://linktr.ee/rafael.smoura.dev)
   <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30" style="vertical-align: middle; margin-right: 10px;">
 </p>
+
 
 <table>
   <tr>
