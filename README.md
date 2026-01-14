@@ -6,14 +6,14 @@
 **`Future Digital Engineer (Student / Developer / Cybersecurity)`**
 
 <p>
-  I am <b>Rafael Moura</b>, an indie full-stack developer and content creator, building my own version of the digital world step by step. I work across the entire development process — from planning and design to implementation — always learning and overcoming new challenges.
+  I am <b>Rafael Moura</b>, a <b>Python-focused developer</b> and content creator, building my own version of the digital world step by step. I work across the development process — from planning and design to implementation — with a strong focus on learning, experimentation, and continuous improvement.
 
   I also create video content, sharing ideas, insights, and experiences on YouTube,
   [**Fala Binário**](https://www.youtube.com/@falabinario),
   and on Instagram,
-  [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura_/).
+  [**Rafael Moura**](https://www.instagram.com/rafael.smoura_/).
 
-  I am currently studying **Computer Engineering** at **UFPE / CIN**, working with **Python and C**, and developing **personal projects** to turn ideas into real solutions.
+  I am currently studying **Computer Engineering** at **UFPE / CIN**, mainly working with **Python** and developing **personal projects** focused on automation, web development, and data analysis.
 
   All my social links are available at:
   [**Linktree**](https://linktr.ee/rafael.smoura.dev)
@@ -23,15 +23,26 @@
 <table>
   <tr>
     <td>
-      Although I am just beginning my journey as a developer, I am already
-      <br>turning ideas into future projects. My focus is on learning, experimenting,
-      <br>and creating digital solutions that surprise and inspire.
+      Although I am still at an early stage of my developer journey, I am already
+      <br>turning ideas into practical projects. My focus is on learning by building,
+      <br>experimenting with real problems, and creating useful digital solutions.
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/4126ddc8-bbcb-4f2a-a228-b547f41d9ada" alt="Click 8 Bit Sticker" width="50">
     </td>
   </tr>
 </table>
+
+---
+
+### 🔍 **Current Focus**
+- Python for automation and scripting  
+- Web development with Python  
+- Data analysis and data manipulation  
+- Git & GitHub workflows  
+- Programming fundamentals and problem solving  
+
+---
 
 💡 **Check out my repositories and social networks — feel free to collaborate or leave suggestions!**
 
@@ -83,14 +94,3 @@
 
 <br clear="both">
 <br clear="both">
-
-<!--
-### 📊 Statistics
-
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"
-       src="https://github-readme-stats.vercel.app/api?username=rafael-smoura&show_icons=true&hide_border=true&include_all_commits=true&title_color=00ffff&icon_color=00ffff&text_color=87cefa&bg_color=000000" />
-
-  <img align="left" alt="To
-
-  -->
