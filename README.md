@@ -95,7 +95,6 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 
 <br clear="both">
-<br clear="both">
 
 ---
 
@@ -130,7 +129,3 @@
   </a>
 </p>
 
-
-<br/>
-
----
