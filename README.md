@@ -199,13 +199,12 @@ Atualmente curso **Engenharia da Computação** na **UFPE/CIN** trabalhando com 
 <br clear="both">
 <br clear="both">
 
-
+<!--
 ### 📺 Últimos Vídeos Lançados
 
-<!-- BEGIN YOUTUBE-CARDS -->
 [![Introdução à Cybersegurança](https://ytcards.demolab.com/?id=dQw4w9WgXcQ&title=Introdução+à+Cybersegurança&lang=pt&timestamp=1620000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=210 "Introdução à Cybersegurança")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<!-- END YOUTUBE-CARDS -->
 
+-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafael-smoura/rafael-smoura/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafael-smoura/rafael-smoura/output/github-contribution-grid-snake-dark.svg">
