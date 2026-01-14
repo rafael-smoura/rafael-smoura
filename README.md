@@ -9,9 +9,9 @@
   I am <b>Rafael Moura</b>, an indie full-stack developer and content creator, building my own version of the digital world step by step. I work across the entire development process — from planning and design to implementation — always learning and overcoming new challenges.
 
   I also create video content, sharing ideas, insights, and experiences on YouTube,
-  [**Decoding Machines**](https://www.youtube.com/@DecodificandoMaquinas),
+  [**Fala Binário**](https://www.youtube.com/@falabinario),
   and on Instagram,
-  [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura.dev/).
+  [**Rafael Moura Dev**](https://www.instagram.com/rafael.smoura_/).
 
   I am currently studying **Computer Engineering** at **UFPE / CIN**, working with **Python and C**, and developing **personal projects** to turn ideas into real solutions.
 
