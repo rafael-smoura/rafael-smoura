@@ -56,14 +56,7 @@
   <img alt="Instagram" title="Instagram"
        src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
-<a href="https://www.youtube.com/@falabinario?sub_confirmation=1">
-  <img alt="YouTube subscribers" title="Subscribe to my channel"
-       src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLBLtU58HvcRVbxE6NYsG6g?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-</a>&nbsp;
-<a href="https://www.youtube.com/@falabinario">
-  <img alt="YouTube views" title="YouTube views"
-       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCLBLtU58HvcRVbxE6NYsG6g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-</a>&nbsp;
+
 <a href="https://github.com/rafael-smoura?tab=repositories&sort=stargazers">
   <img alt="Total GitHub stars" title="Total GitHub stars"
        src="https://custom-icon-badges.demolab.com/github/stars/rafael-smoura?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"/>
