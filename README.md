@@ -91,8 +91,15 @@
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
+<img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+<img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
 <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+
 
 <br clear="both">
 
