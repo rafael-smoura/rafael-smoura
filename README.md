@@ -65,15 +65,15 @@
 
 ---
 
----
-
 ### 🧰 Languages & Tools
 
 #### Backend
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 
 <br><br>
 
@@ -90,6 +90,8 @@
 #### Banco de Dados
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
@@ -111,7 +113,6 @@
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-<br clear="both">
 <br clear="both">
 
 ---
@@ -146,4 +147,3 @@
     />
   </a>
 </p>
-
