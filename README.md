@@ -9,15 +9,15 @@
   I am <b>Rafael Moura</b>, a <b>Python-focused developer</b> and content creator, building my own version of the digital world step by step. I work across the development process — from planning and design to implementation — with a strong focus on learning, experimentation, and continuous improvement.
 
   I also create video content, sharing ideas, insights, and experiences on YouTube,
-  [**Fala Binário**](https://www.youtube.com/@falabinario),
+  <a href="https://www.youtube.com/@falabinario" target="_blank" rel="noopener noreferrer"><b>Fala Binário</b></a>,
   and on Instagram,
-  [**Rafael Moura**](https://www.instagram.com/rafael.smoura_/).
+  <a href="https://www.instagram.com/rafael.smoura_/" target="_blank" rel="noopener noreferrer"><b>Rafael Moura</b></a>.
 
   I am currently studying **Computer Engineering** at **UFPE / CIN**, mainly working with **Python** and developing **personal projects** focused on automation, web development, and data analysis.  
   I hold a **Technical Degree in Computer Networks**, which gives me a solid foundation in networking, systems, and IT infrastructure.
 
   All my social links are available at:
-  [**Linktree**](https://linktr.ee/rafael.smoura.dev)
+  <a href="https://linktr.ee/rafael.smoura.dev" target="_blank" rel="noopener noreferrer"><b>Linktree</b></a>
   <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30" style="vertical-align: middle; margin-right: 10px;">
 </p>
 
@@ -48,16 +48,15 @@
 
 💡 **Check out my repositories and social networks — feel free to collaborate or leave suggestions!**
 
-<a href="https://www.linkedin.com/in/rafaelsmouraoficial">
+<a href="https://www.linkedin.com/in/rafaelsmouraoficial" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" title="LinkedIn"
        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="https://instagram.com/rafael.smoura_">
+<a href="https://instagram.com/rafael.smoura_" target="_blank" rel="noopener noreferrer">
   <img alt="Instagram" title="Instagram"
        src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
-
-<a href="https://github.com/rafael-smoura?tab=repositories&sort=stargazers">
+<a href="https://github.com/rafael-smoura?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
   <img alt="Total GitHub stars" title="Total GitHub stars"
        src="https://custom-icon-badges.demolab.com/github/stars/rafael-smoura?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"/>
 </a>
@@ -73,7 +72,7 @@
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 
 <br><br>
 
@@ -117,10 +116,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-origi
 
 ---
 
-### 💻 Badges Cisco
+### 💡 Badges Cisco
 
 <p align="left">
-  <a href="https://www.credly.com/badges/d6583357-2582-4a8e-99cb-5ee71b805df3/public_url">
+  <a href="https://www.credly.com/badges/d6583357-2582-4a8e-99cb-5ee71b805df3/public_url" target="_blank" rel="noopener noreferrer">
     <img 
       alt="CCNA: Introduction to Networks" 
       title="CCNA: Introduction to Networks"
@@ -129,7 +128,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-origi
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/2ea40c9c-b8b2-443d-90be-7c9fedd8e91f/public_url">
+  <a href="https://www.credly.com/badges/2ea40c9c-b8b2-443d-90be-7c9fedd8e91f/public_url" target="_blank" rel="noopener noreferrer">
     <img 
       alt="Cybersecurity Essentials" 
       title="Cybersecurity Essentials"
@@ -138,7 +137,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-origi
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/74dc5da7-bff9-450d-8543-2258c019db54/public_url">
+  <a href="https://www.credly.com/badges/74dc5da7-bff9-450d-8543-2258c019db54/public_url" target="_blank" rel="noopener noreferrer">
     <img 
       alt="IT Essentials" 
       title="IT Essentials"
