@@ -20,6 +20,9 @@
   <a href="https://linktr.ee/rafael.smoura.dev" target="_blank" rel="noopener noreferrer"><b>Linktree</b></a>
   <img src="https://github.com/user-attachments/assets/d5b9a14e-4038-4356-9e69-d5b60f6a59f9" alt="Click 8 Bit Sticker" width="30" style="vertical-align: middle; margin-right: 10px;">
 </p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rafael-smoura/rafael-smoura/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
 
 
 <table>
@@ -146,3 +149,5 @@
     />
   </a>
 </p>
+
+
