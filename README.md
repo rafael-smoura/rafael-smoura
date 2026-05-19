@@ -70,52 +70,32 @@
 ### 🧰 Languages & Tools
 
 #### Backend
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,flask" />
+</p>
 
-<br><br>
+#### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-#### Frontend 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+#### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
-<br><br>
+#### Infrastructure & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git" />
+</p>
 
-#### Banco de Dados
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-
-<br><br>
-
-#### Infraestrutura & DevOps
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br><br>
-
-#### Outras Ferramentas & Linguagens
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+#### Other Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,arduino,figma" />
+</p>
 
 <br clear="both">
+
 
 ---
 
