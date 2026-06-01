@@ -3,8 +3,8 @@
   <img src="https://github.com/user-attachments/assets/c9ae7e44-116b-415e-aabc-3d81ad88d992" alt="Click Lets Go Sticker by Xinanimodelacra" width="150">
 </p>
 
-
 <p align="center"><strong>Future Digital Engineer (Computer Engineering Student | Python Developer | Cybersecurity)</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Currently Online" />&nbsp;
   <img src="https://img.shields.io/badge/coding-Python%20%7C%20Verilog-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Coding Status" />&nbsp;
@@ -78,7 +78,7 @@
 ### 🧰 Languages & Tools
 
 #### Backend
-<table>
+<table width="100%">
   <tr>
     <td width="220px" align="left" style="border: none;">
       <img src="https://skillicons.dev/icons?i=python,php,flask" />
@@ -90,7 +90,7 @@
 </table>
 
 #### Frontend
-<table>
+<table width="100%">
   <tr>
     <td width="220px" align="left" style="border: none;">
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
@@ -102,7 +102,7 @@
 </table>
 
 #### Database
-<table>
+<table width="100%">
   <tr>
     <td width="220px" align="left" style="border: none;">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
@@ -114,7 +114,7 @@
 </table>
 
 #### Infrastructure & DevOps
-<table>
+<table width="100%">
   <tr>
     <td width="220px" align="left" style="border: none;">
       <img src="https://skillicons.dev/icons?i=docker,git" />
@@ -126,7 +126,7 @@
 </table>
 
 #### Other Technologies
-<table>
+<table width="100%">
   <tr>
     <td width="220px" align="left" style="border: none;">
       <img src="https://skillicons.dev/icons?i=c,arduino,figma" />
