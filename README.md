@@ -173,8 +173,7 @@
   </a>
 </p>
 
-<blockquote>Certificações oficiais emitidas pela Cisco Networking Academy, validando competências essenciais em infraestrutura de redes, roteamento, fundamentos de TI e conceitos de segurança digital.</blockquote>
-
+<blockquote>Official certifications issued by Cisco Networking Academy, validating essential competencies in network infrastructure, routing, IT fundamentals, and digital security concepts.</blockquote>
 ---
 
 <p align="center">
