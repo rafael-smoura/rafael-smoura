@@ -3,7 +3,15 @@
   <img src="https://github.com/user-attachments/assets/c9ae7e44-116b-415e-aabc-3d81ad88d992" alt="Click Lets Go Sticker by Xinanimodelacra" width="150">
 </p>
 
-**`Future Digital Engineer (Computer Engineering Student | Python Developer | Cybersecurity)`**
+<p align="center"> **`Future Digital Engineer (Computer Engineering Student | Python Developer | Cybersecurity)`** </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Currently Online" />&nbsp;
+  <img src="https://img.shields.io/badge/coding-Python%20%7C%20Verilog-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Coding Status" />&nbsp;
+  <img src="https://img.shields.io/github/last-commit/rafael-smoura/rafael-smoura?label=last%20commit&style=flat-square&color=lightgrey" alt="Last Commit" />
+</p>
+
+<br>
 
 <p>
   I am <b>Rafael Moura</b>, a <b>Python-focused developer</b> and content creator, building my own version of the digital world step by step. I work across the development process — from planning and design to implementation — with a strong focus on learning, experimentation, and continuous improvement.
@@ -70,29 +78,64 @@
 ### 🧰 Languages & Tools
 
 #### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,flask" />
-</p>
+<table>
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python,php,flask" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Development of Flask APIs, automation scripts, and structured logic.
+    </td>
+  </tr>
+</table>
 
 #### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+<table>
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Responsive interfaces and styling with responsive frameworks.
+    </td>
+  </tr>
+</table>
 
 #### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
+<table>
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Relational data modeling for web applications and local testing.
+    </td>
+  </tr>
+</table>
 
 #### Infrastructure & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git" />
-</p>
+<table>
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=docker,git" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Environment consistency using Docker containers and Git workflow.
+    </td>
+  </tr>
+</table>
 
 #### Other Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,arduino,figma" />
-</p>
+<table>
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=c,arduino,figma" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Embedded systems hardware prototyping and UI/UX interface design.
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 
@@ -129,5 +172,3 @@
     />
   </a>
 </p>
-
-
