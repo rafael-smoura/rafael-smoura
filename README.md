@@ -172,3 +172,11 @@
     />
   </a>
 </p>
+
+<blockquote>Certificações oficiais emitidas pela Cisco Networking Academy, validando competências essenciais em infraestrutura de redes, roteamento, fundamentos de TI e conceitos de segurança digital.</blockquote>
+
+---
+
+<p align="center">
+  ✨ <i>Thank you for visiting! Feel free to reach out for collaborations, project ideas, or just a tech chat. Let's build the future together!</i> 🚀
+</p>
