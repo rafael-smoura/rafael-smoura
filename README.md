@@ -1,16 +1,15 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b21b1816-b69a-4e22-96e7-4a35028335da" alt="My Image" width="300">
   <img src="https://github.com/user-attachments/assets/c9ae7e44-116b-415e-aabc-3d81ad88d992" alt="Sticker" width="150">
 </p>
 
 <h2 align="center">
-Computer Engineering Student | Python Backend Developer | Cybersecurity Enthusiast
+Computer Engineering Student | Backend Developer | Cybersecurity Enthusiast
 </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Currently Online" />
-  <img src="https://img.shields.io/badge/coding-Python%20%7C%20Verilog-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Coding Status" />
+  <img src="https://img.shields.io/badge/coding-Python%20%7C%20Flask-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Coding Status" />
   <img src="https://img.shields.io/github/last-commit/rafael-smoura/rafael-smoura?label=last%20commit&style=flat-square&color=lightgrey" alt="Last Commit" />
 </p>
 
@@ -18,13 +17,13 @@ Computer Engineering Student | Python Backend Developer | Cybersecurity Enthusia
 
 ## 👋 About Me
 
-I'm **Rafael Moura**, a Computer Engineering student at **UFPE / CIn** and a developer focused on **Python**, **Backend Development**, and **Software Architecture**.
+I'm **Rafael Moura**, a **Computer Engineering student at UFPE / CIn** and a developer focused on **Python**, **Backend Development**, and **Software Architecture**.
 
-My interests span across **web development**, **automation**, **cybersecurity**, **computer networks**, and **digital systems**. I enjoy building projects that help me understand how software and hardware interact while continuously improving my engineering skills.
+My interests span across **web development**, **automation**, **cybersecurity**, and modern software engineering practices. I enjoy building projects that help me understand how systems work and continuously improve my problem-solving and development skills.
 
-I also hold a **Technical Degree in Computer Networks**, providing a strong foundation in networking, operating systems, infrastructure, and security concepts.
+I also hold a **Technical Degree in Computer Networks**, providing a solid foundation in networking, infrastructure, operating systems, and security concepts.
 
-Besides software development, I create technology content through:
+In the future, I plan to create educational content focused on programming, technology, and engineering through:
 
 - 📺 YouTube: **Fala Binário**
 - 📷 Instagram: **@rafael.smoura_**
@@ -44,7 +43,7 @@ Besides software development, I create technology content through:
 
 - 🎓 LessonFlow — Educational platform backend built with Flask and SQLAlchemy
 - 🤖 Automation Scripts — Python automation and productivity tools
-- 💾 Verilog Memory Project — Finite State Machine-based memory architecture
+- 🔐 Cybersecurity Labs — Security and networking experiments
 - 🌐 Networking & Infrastructure Labs
 
 ---
@@ -55,10 +54,8 @@ Besides software development, I create technology content through:
 - Flask & REST APIs
 - Software Architecture
 - SQL Databases
-- Git & GitHub Workflows
-- Computer Networks
 - Cybersecurity Fundamentals
-- Verilog & Digital Systems
+- Automation & Scripting
 
 ---
 
@@ -67,13 +64,11 @@ Besides software development, I create technology content through:
 <a href="https://www.linkedin.com/in/rafaelsmouraoficial">
   <img alt="LinkedIn"
        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+</a>&nbsp;
 <a href="https://instagram.com/rafael.smoura_">
   <img alt="Instagram"
        src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+</a>&nbsp;
 <a href="https://github.com/rafael-smoura?tab=repositories&sort=stargazers">
   <img alt="GitHub Stars"
        src="https://custom-icon-badges.demolab.com/github/stars/rafael-smoura?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"/>
@@ -83,41 +78,65 @@ Besides software development, I create technology content through:
 
 ## 🧰 Languages & Tools
 
-### Backend
+#### Backend
+<table width="100%">
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python,php,flask" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Development of REST APIs, backend services, automation scripts, and software architecture projects.
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,flask,php" />
+#### Frontend
+<table width="100%">
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Responsive interfaces and modern web development fundamentals.
+    </td>
+  </tr>
+</table>
 
-Development of REST APIs, backend services, automation scripts, and software architecture projects.
+#### Databases
+<table width="100%">
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Relational database modeling and SQL development.
+    </td>
+  </tr>
+</table>
 
-### Frontend
+#### Infrastructure & DevOps
+<table width="100%">
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Containerization, version control, and development environments.
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-
-Responsive interfaces and modern web development fundamentals.
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-
-Relational database modeling and SQL development.
-
-### Infrastructure & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux" />
-
-Containerization, version control, and development environments.
-
-### Embedded Systems & Hardware
-
-<img src="https://skillicons.dev/icons?i=c,arduino" />
-
-Digital systems, embedded programming, and hardware prototyping.
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-UI/UX prototyping and interface design.
+#### Other Technologies
+<table width="100%">
+  <tr>
+    <td width="220px" align="left" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=c,figma" />
+    </td>
+    <td style="border: none; padding-left: 15px;">
+      Additional experience with programming concepts and interface design.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -143,6 +162,5 @@ UI/UX prototyping and interface design.
 
 <p align="center">
   <b>💡 Learning by building.</b><br>
-  Every repository here represents a step in my journey as a Computer Engineer and Software Developer.
+  Every repository here represents practical experience gained through studying, experimenting, and solving real-world engineering problems.
 </p>
-
