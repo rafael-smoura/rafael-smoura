@@ -143,6 +143,7 @@ In the future, I plan to create educational content focused on programming, tech
 ## 🏆 Cisco Certifications
 
 <p align="left">
+  
   <a href="https://www.credly.com/badges/d6583357-2582-4a8e-99cb-5ee71b805df3/public_url">
     <img src="https://images.credly.com/size/160x160/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height="120" />
   </a>
