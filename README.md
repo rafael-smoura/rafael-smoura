@@ -58,7 +58,7 @@ In the future, I plan to create educational content focused on programming, tech
 - Automation & Scripting
 
 ---
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-smoura&show_icons=true&theme=dracula&count_private=true)
 ## 🌎 Connect With Me
 
 <a href="https://www.linkedin.com/in/rafaelsmouraoficial">
